@@ -1,9 +1,8 @@
 import { Home, Pizza, UtensilsCrossed } from 'lucide-react'
-import { Link } from 'react-router-dom'
 
 import { AccountMenu } from './account-menu'
 import { Navlink } from './navlink'
-import { ThemeToggle } from './theme/theme-togle'
+import { ThemeToggle } from './theme/theme-toggle'
 import { Separator } from './ui/separator'
 
 export function Header() {
